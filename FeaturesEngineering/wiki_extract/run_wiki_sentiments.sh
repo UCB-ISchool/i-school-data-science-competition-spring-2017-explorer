@@ -1,0 +1,1 @@
+python sentiments_analysis.py celebs_wiki_content.csv celebs_wiki_sentiments.csv 1
